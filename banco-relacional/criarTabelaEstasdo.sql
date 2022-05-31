@@ -1,4 +1,4 @@
--- Criando a tabela estado! TesteGithub
+-- Criando a tabela estado! Teste
 create table estados (
 id INT UNSIGNED NOT NULL AUTO_INCREMENT,
 nome VARCHAR(45) NOT NULL,
