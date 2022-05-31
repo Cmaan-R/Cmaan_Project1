@@ -1,7 +1,7 @@
-INSERT INTO estados
+insert into estados
     (nome, sigla, regiao, populacao)
 VALUES
-    ('Acre' , 'AC' , 'NORTE' , 0.83);
+    ('Acre', 'AC', 'Norte', 0.83);
 
 INSERT INTO estados
     (nome, sigla, regiao, populacao)
