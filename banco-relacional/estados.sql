@@ -15,7 +15,7 @@ VALUES
     ('Paraíba', 'PB', 'Nordeste', 4.03),
     ('Parana', 'PR', 'Sul', 11.22),
     ('Pernambuco', 'PE', 'Nordeste', 9.47),
-    ('Piauí', 'PI', 'Nordeste', 3.22),
+    ('Piauí', 'PI', 'Nordeste', 3.22),e
     ('Rio de Janeiro', 'RJ', 'Sudeste', 16.72),
     ('Rio Grande do Norte', 'RN', 'Nordeste', 3.51),
     ('Rio Grande do Sul', 'RS', 'Sul', 11.32),
