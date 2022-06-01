@@ -1,7 +1,7 @@
 select * from estados
 
 select
-      sigla,
+      sigla
       nome as 'Nome do Estado'
 from estados
 where regiao = 'sul' 
